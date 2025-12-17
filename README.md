@@ -25,7 +25,7 @@ A TCP-based client–server application written in Python that supports wildcard
 ## How to Run
 
 Start the server:
-```bash
+
 python server_threaded.py
 Start the client:
 
