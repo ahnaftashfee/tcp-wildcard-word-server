@@ -44,7 +44,8 @@ ant
 act
 apt
 
-What This Project Demonstrates
+## What this Project Demonstrates
+
 Strong understanding of TCP/IP networking concepts
 
 Client–server system design
@@ -53,6 +54,6 @@ Concurrent server architecture using threads
 
 Application-layer protocol design similar to HTTP
 
-Author
+## Author
 Mohammad Tashfee
 University of Connecticut
