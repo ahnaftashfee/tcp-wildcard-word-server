@@ -46,14 +46,14 @@ apt
 
 ## What this Project Demonstrates
 
-Strong understanding of TCP/IP networking concepts
+-Strong understanding of TCP/IP networking concepts
 
-Client–server system design
+-Client–server system design
 
-Concurrent server architecture using threads
+-Concurrent server architecture using threads
 
-Application-layer protocol design similar to HTTP
+-Application-layer protocol design similar to HTTP
 
 ## Author
-Mohammad Tashfee
-University of Connecticut
+-Mohammad Tashfee
+-University of Connecticut
